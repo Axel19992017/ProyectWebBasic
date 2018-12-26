@@ -1,0 +1,19 @@
+@font-face{
+    font-family: "AlexBrush";
+    src: url(../font/AlexBrush-Regular.ttf);   
+    font-weight: normal;
+    font-style: normal; 
+}
+*{
+    font-family: "AlexBrush";
+    font-weight: 200;
+}
+.title{
+    text-align: center;
+}
+ul li{
+    font-size: 1.4em;
+    display: inline;
+    padding-left: 1.5em;
+    padding-right: 2em;
+}
